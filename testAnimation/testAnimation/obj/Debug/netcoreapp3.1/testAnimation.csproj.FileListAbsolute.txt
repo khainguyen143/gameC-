@@ -1,0 +1,16 @@
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\bin\Debug\netcoreapp3.1\testAnimation.exe
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\bin\Debug\netcoreapp3.1\testAnimation.deps.json
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\bin\Debug\netcoreapp3.1\testAnimation.runtimeconfig.json
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\bin\Debug\netcoreapp3.1\testAnimation.runtimeconfig.dev.json
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\bin\Debug\netcoreapp3.1\testAnimation.dll
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\bin\Debug\netcoreapp3.1\testAnimation.pdb
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.csprojAssemblyReference.cache
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.Form1.resources
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.csproj.GenerateResource.cache
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.AssemblyInfoInputs.cache
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.AssemblyInfo.cs
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.csproj.CoreCompileInputs.cache
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.dll
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.pdb
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.genruntimeconfig.cache
+C:\Users\anhtr\source\repos\testAnimation\testAnimation\obj\Debug\netcoreapp3.1\testAnimation.Properties.Resources.resources
